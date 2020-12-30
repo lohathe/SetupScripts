@@ -55,5 +55,5 @@ make install
 cd ../..
 rm -r temp
 gnome-extensions enable system-monitor@paradoxxx.zero.gmail.com 
-
-
+## update bashrc
+cat improve_bashrc >> $HOME/.bashrc
